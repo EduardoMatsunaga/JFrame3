@@ -1,0 +1,1 @@
+34. Receba um número. Calcule e mostre os resultados da tabuada desse número.
